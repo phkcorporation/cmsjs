@@ -6,6 +6,7 @@ As it's name suggests, it is a CMS written in Node.js.  Node was chosen because 
 
 **Contributors**
 
+* [PHK Corporation](https://www.github.com/phkcorporation/)
 * [Erick Rojas](http://www.github.com/erickthered/)
 
 # Current Status
@@ -40,7 +41,7 @@ So far, mongoose has not been used, but at some point there's a good chance that
 
 If you are in a hurry, or if you don't mind knowing what you do :), just issue the following commands at the location where you want CmsJS to live in your hard drive.
 
-    git clone git://github.com/erickthered/cmsjs.git
+    git clone git://github.com/phkcorporation/cmsjs.git
     cd cmsjs
     npm install
     node app.js
